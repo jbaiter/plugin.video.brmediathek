@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.brmediathek" name="BR Mediathek" version="0.1" provider-name="Johannes Baiter">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" version="2.4.3" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language>de</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <summary>Access the Mediathek of the Bayerische Rundfunk</summary>
+    <description>
+      Provides access to the whole BR Mediathek with the same features as the mobile apps.
+    </description>
+  </extension>
+</addon>

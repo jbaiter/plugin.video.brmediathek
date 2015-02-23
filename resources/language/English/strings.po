@@ -1,0 +1,58 @@
+# Addon Provider: Pascal Nançoz
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: nancpasc@gmail.com\n"
+"POT-Creation-Date: 2014-11-27T19:45:27+01:00\n"
+"PO-Revision-Date: 2014-12-07T17:45:11+01:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "BR Mediathek"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Livestreams"
+msgstr ""
+
+msgctxt "#30002"
+msgid "List shows"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Archive"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Editor's Choices"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Most viewed"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Highest rated"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Most recommended"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Web exclusive"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Web Previews"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Search"
+msgstr ""
